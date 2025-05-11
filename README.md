@@ -1,9 +1,9 @@
+# Whats Up?
 - 👋 Hi, I’m @Coding-Shinobi7
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... JavaScript
 - 📫 How to reach me ... abdulqawimohammed07@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: You can't lift your ring finger when all others are tucked in.
 
 <!---
 Coding-Shinobi7/Coding-Shinobi7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

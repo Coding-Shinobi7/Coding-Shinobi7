@@ -1,7 +1,7 @@
 # Whats Up?
 - 👋 Hi, I’m @Coding-Shinobi7
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... MySQL
 - 📫 How to reach me ... abdulqawimohammed07@gmail.com
 - 😄 Pronouns: he/him
 
